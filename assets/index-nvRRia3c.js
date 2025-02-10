@@ -9201,7 +9201,7 @@ function Bd() {
             children: "About",
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x79eca7164406d91b8a835b7990b7b5cbde2ebdd2?t=1739052426947",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x9895dc395f9a145d3ea1cf8beaa28636b7248d02?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
