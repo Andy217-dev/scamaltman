@@ -9260,7 +9260,7 @@ function Hd() {
             className: "flex gap-3",      
             children: [
               v.jsx("a", {
-                href: "https://t.me/jailstool_eth",
+                href: "https://t.me/ScamAltman_eth",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9273,7 +9273,7 @@ function Hd() {
                 children: v.jsx($d, { className: "h-5 w-5" }),
               }),
               v.jsx("a", {
-                href: "https://x.com/jailstool_eth",
+                href: "https://x.com/elonmusk/status/1889062013109703009",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
