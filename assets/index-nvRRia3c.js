@@ -9183,7 +9183,7 @@ function Bd() {
         children: [
           v.jsx("span", {
             className: "text-2xl font-bold",
-            children: "$SCAM",
+            children: "$Circumcisions",
           }),
         ],
       }),
@@ -9234,7 +9234,7 @@ function Hd() {
       v.jsxs("h1", {
         className: "text-6xl font-bold mb-6",
         children: [
-          "Scam Altman",     
+          "Circumcisions",     
         ],
       }),   
       v.jsxs("div", {
@@ -9246,7 +9246,7 @@ function Hd() {
             rel: "noopener noreferrer",
             className:
               "bg-yellow-500 text-black px-8 py-3 rounded-full font-bold hover:bg-yellow-400 transition flex items-center gap-2",
-            children: ["Buy $SCAM ", v.jsx(Od, { className: "h-5 w-5" })],
+            children: ["Buy $Circumcisions ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
             href: "https://www.dextools.io/app/en/ether/pair-explorer/0x9895dc395f9a145d3ea1cf8beaa28636b7248d02?t=1739052426947",
@@ -9332,7 +9332,7 @@ function Wd() {
         children: [
           v.jsx("h2", {
             className: "text-4xl font-bold mb-8 text-center",
-            children: '𝕏 is the PvP of the internet 🍿',
+            children: 'Circumcisions at a discount, now 50% off!',
           }),          
         ],
       }),
@@ -9375,7 +9375,7 @@ function Kd() {
                         "flex text-2xl font-bold mb-4 text-yellow-500 justify-between",
                       children: [
                         v.jsx("span", { children: "Symbol" }),
-                        v.jsx("span", { children: "SCAM" }),
+                        v.jsx("span", { children: "Circumcisions" }),
                       ],
                     }),
                     v.jsxs("li", {
@@ -9431,13 +9431,13 @@ function Yd() {
           children: [            
             v.jsx("span", {
               className: "text-xl font-bold",
-              children: "$SCAM",
+              children: "$Circumcisions",
             }),
           ],
         }),
         v.jsx("p", {
           className: "text-gray-400",
-          children: "© 2025 $SCAM. All rights reserved.",
+          children: "© 2025 $Circumcisions. All rights reserved.",
         }),
       ],
     }),
