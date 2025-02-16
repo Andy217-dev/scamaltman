@@ -9183,7 +9183,7 @@ function Bd() {
         children: [
           v.jsx("span", {
             className: "text-2xl font-bold",
-            children: "$Circumcisions",
+            children: "$x286",
           }),
         ],
       }),
@@ -9201,7 +9201,7 @@ function Bd() {
             children: "About",
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x9895dc395f9a145d3ea1cf8beaa28636b7248d02?t=1739052426947",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9209,7 +9209,7 @@ function Bd() {
             children: [v.jsx(tc, { className: "h-5 w-5" }), "Chart"],
           }),
           v.jsx("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xB9934C6b57035fAC10067c4f6C0805d6D64b0451&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9234,22 +9234,22 @@ function Hd() {
       v.jsxs("h1", {
         className: "text-6xl font-bold mb-6",
         children: [
-          "Circumcisions",     
+          "CZ First Computer",     
         ],
       }),   
       v.jsxs("div", {
         className: "flex gap-4",
         children: [
           v.jsxs("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xB9934C6b57035fAC10067c4f6C0805d6D64b0451&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
               "bg-yellow-500 text-black px-8 py-3 rounded-full font-bold hover:bg-yellow-400 transition flex items-center gap-2",
-            children: ["Buy $Circumcisions ", v.jsx(Od, { className: "h-5 w-5" })],
+            children: ["Buy $x286 ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x9895dc395f9a145d3ea1cf8beaa28636b7248d02?t=1739052426947",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9260,7 +9260,7 @@ function Hd() {
             className: "flex gap-3",      
             children: [
               v.jsx("a", {
-                href: "https://t.me/ScamAltman_eth",
+                href: "https://t.me/x286_eth",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9273,7 +9273,7 @@ function Hd() {
                 children: v.jsx($d, { className: "h-5 w-5" }),
               }),
               v.jsx("a", {
-                href: "https://x.com/elonmusk/status/1889062013109703009",
+                href: "https://x.com/cz_binance/status/1638256979310256130?s=46",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9331,8 +9331,8 @@ function Wd() {
         className: "max-w-3xl mx-auto",     
         children: [
           v.jsx("h2", {
-            className: "text-4xl font-bold mb-8 text-center",
-            children: 'Circumcisions at a discount, now 50% off!',
+            className: "text-4xl font-bold mb-8 text-left",
+            children: '“My” first computer. Dad paid $7000 CAD for this x286, a few months of his salary in 1990. It remains the most expensive computer we/I ever bought. Looking back, it definitely helped start me on the right track. I’m forever grateful.',
           }),          
         ],
       }),
@@ -9356,7 +9356,7 @@ function Kd() {
               "text-xl font-bold text-center",
             style: {marginBottom: "20px"},
             children: [
-              v.jsx("span", { children: "CA: 0xB9934C6b57035fAC10067c4f6C0805d6D64b0451" }),              
+              v.jsx("span", { children: "CA: 0xComingSoon" }),              
             ],
         }),
         v.jsxs("div", {
@@ -9375,7 +9375,7 @@ function Kd() {
                         "flex text-2xl font-bold mb-4 text-yellow-500 justify-between",
                       children: [
                         v.jsx("span", { children: "Symbol" }),
-                        v.jsx("span", { children: "Circumcisions" }),
+                        v.jsx("span", { children: "x286" }),
                       ],
                     }),
                     v.jsxs("li", {
@@ -9431,13 +9431,13 @@ function Yd() {
           children: [            
             v.jsx("span", {
               className: "text-xl font-bold",
-              children: "$Circumcisions",
+              children: "$x286",
             }),
           ],
         }),
         v.jsx("p", {
           className: "text-gray-400",
-          children: "© 2025 $Circumcisions. All rights reserved.",
+          children: "© 2025 $x286. All rights reserved.",
         }),
       ],
     }),
