@@ -9201,7 +9201,7 @@ function Bd() {
             children: "About",
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon?t=1739052426947",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x180835af8a0bc826f1dbb9ca33e0dd459a4e305f?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9209,7 +9209,7 @@ function Bd() {
             children: [v.jsx(tc, { className: "h-5 w-5" }), "Chart"],
           }),
           v.jsx("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x180835af8a0bc826f1dbb9ca33e0dd459a4e305f&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9241,7 +9241,7 @@ function Hd() {
         className: "flex gap-4",
         children: [
           v.jsxs("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x180835af8a0bc826f1dbb9ca33e0dd459a4e305f&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9249,7 +9249,7 @@ function Hd() {
             children: ["Buy $x286 ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon?t=1739052426947",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x05c5757087df579385b2eafd5f86940410b6092e?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9356,7 +9356,7 @@ function Kd() {
               "text-xl font-bold text-center",
             style: {marginBottom: "20px"},
             children: [
-              v.jsx("span", { children: "CA: 0xComingSoon" }),              
+              v.jsx("span", { children: "CA: 0x180835af8a0bc826f1dbb9ca33e0dd459a4e305f" }),              
             ],
         }),
         v.jsxs("div", {
