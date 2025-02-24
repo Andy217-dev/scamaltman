@@ -9183,7 +9183,7 @@ function Bd() {
         children: [
           v.jsx("span", {
             className: "text-2xl font-bold",
-            children: "$x286",
+            children: "Boringguy",
           }),
         ],
       }),
@@ -9201,7 +9201,7 @@ function Bd() {
             children: "About",
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x180835af8a0bc826f1dbb9ca33e0dd459a4e305f?t=1739052426947",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf101d0a0c0d459c6663c4e54f1da517246852a39?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9209,7 +9209,7 @@ function Bd() {
             children: [v.jsx(tc, { className: "h-5 w-5" }), "Chart"],
           }),
           v.jsx("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x180835af8a0bc826f1dbb9ca33e0dd459a4e305f&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf101d0a0c0d459c6663c4e54f1da517246852a39&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9234,19 +9234,19 @@ function Hd() {
       v.jsxs("h1", {
         className: "text-6xl font-bold mb-6",
         children: [
-          "CZ First Computer",     
+          "Boring guy",     
         ],
       }),   
       v.jsxs("div", {
         className: "flex gap-4",
         children: [
           v.jsxs("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x180835af8a0bc826f1dbb9ca33e0dd459a4e305f&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf101d0a0c0d459c6663c4e54f1da517246852a39&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
               "bg-yellow-500 text-black px-8 py-3 rounded-full font-bold hover:bg-yellow-400 transition flex items-center gap-2",
-            children: ["Buy $x286 ", v.jsx(Od, { className: "h-5 w-5" })],
+            children: ["Buy Boringguy ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
             href: "https://www.dextools.io/app/en/ether/pair-explorer/0x05c5757087df579385b2eafd5f86940410b6092e?t=1739052426947",
@@ -9260,7 +9260,7 @@ function Hd() {
             className: "flex gap-3",      
             children: [
               v.jsx("a", {
-                href: "https://t.me/x286_eth",
+                href: "https://t.me/boring_guy_eth",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9273,7 +9273,7 @@ function Hd() {
                 children: v.jsx($d, { className: "h-5 w-5" }),
               }),
               v.jsx("a", {
-                href: "https://x.com/x286eth",
+                href: "https://x.com/cz_binance/status/1894014007817736363",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9331,8 +9331,8 @@ function Wd() {
         className: "max-w-3xl mx-auto",     
         children: [
           v.jsx("h2", {
-            className: "text-4xl font-bold mb-8 text-left",
-            children: '“My” first computer. Dad paid $7000 CAD for this x286, a few months of his salary in 1990. It remains the most expensive computer we/I ever bought. Looking back, it definitely helped start me on the right track. I’m forever grateful.',
+            className: "text-4xl font-bold mb-8 text-center",
+            children: 'I am a boring guy. ',
           }),          
         ],
       }),
@@ -9356,7 +9356,7 @@ function Kd() {
               "text-xl font-bold text-center",
             style: {marginBottom: "20px"},
             children: [
-              v.jsx("span", { children: "CA: 0x180835af8a0bc826f1dbb9ca33e0dd459a4e305f" }),              
+              v.jsx("span", { children: "CA: 0xf101d0a0c0d459c6663c4e54f1da517246852a39" }),              
             ],
         }),
         v.jsxs("div", {
@@ -9375,7 +9375,7 @@ function Kd() {
                         "flex text-2xl font-bold mb-4 text-yellow-500 justify-between",
                       children: [
                         v.jsx("span", { children: "Symbol" }),
-                        v.jsx("span", { children: "x286" }),
+                        v.jsx("span", { children: "Boringguy" }),
                       ],
                     }),
                     v.jsxs("li", {
@@ -9431,13 +9431,13 @@ function Yd() {
           children: [            
             v.jsx("span", {
               className: "text-xl font-bold",
-              children: "$x286",
+              children: "Boringguy",
             }),
           ],
         }),
         v.jsx("p", {
           className: "text-gray-400",
-          children: "© 2025 $x286. All rights reserved.",
+          children: "© 2025 Boring guy. All rights reserved.",
         }),
       ],
     }),
