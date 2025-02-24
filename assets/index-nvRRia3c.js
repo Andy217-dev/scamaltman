@@ -9332,7 +9332,7 @@ function Wd() {
         children: [
           v.jsx("h2", {
             className: "text-4xl font-bold mb-8 text-center",
-            children: 'DAVEY DAY TRADER GLOBAL. ',
+            children: 'DAVEY DAY TRADER GLOBAL ',
           }),          
         ],
       }),
