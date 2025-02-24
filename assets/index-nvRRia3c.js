@@ -9383,7 +9383,7 @@ function Kd() {
                         "flex text-2xl font-bold mb-4 text-yellow-500 justify-between",
                       children: [
                         v.jsx("span", { children: "Total Supply" }),
-                        v.jsx("span", { children: "100,000,000" }),
+                        v.jsx("span", { children: "1,000,000,000" }),
                       ],
                     }),
                     v.jsxs("li", {
