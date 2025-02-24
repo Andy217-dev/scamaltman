@@ -9260,7 +9260,7 @@ function Hd() {
             className: "flex gap-3",      
             children: [
               v.jsx("a", {
-                href: "https://t.me/boring_guy_eth",
+                href: "https://t.me/ddtg_com",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
