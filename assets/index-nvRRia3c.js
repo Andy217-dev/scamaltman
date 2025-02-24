@@ -9183,7 +9183,7 @@ function Bd() {
         children: [
           v.jsx("span", {
             className: "text-2xl font-bold",
-            children: "Boringguy",
+            children: "BORINGGUY",
           }),
         ],
       }),
@@ -9246,7 +9246,7 @@ function Hd() {
             rel: "noopener noreferrer",
             className:
               "bg-yellow-500 text-black px-8 py-3 rounded-full font-bold hover:bg-yellow-400 transition flex items-center gap-2",
-            children: ["Buy Boringguy ", v.jsx(Od, { className: "h-5 w-5" })],
+            children: ["Buy BORINGGUY ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
             href: "https://www.dextools.io/app/en/ether/pair-explorer/0x05c5757087df579385b2eafd5f86940410b6092e?t=1739052426947",
@@ -9375,7 +9375,7 @@ function Kd() {
                         "flex text-2xl font-bold mb-4 text-yellow-500 justify-between",
                       children: [
                         v.jsx("span", { children: "Symbol" }),
-                        v.jsx("span", { children: "Boringguy" }),
+                        v.jsx("span", { children: "BORINGGUY" }),
                       ],
                     }),
                     v.jsxs("li", {
@@ -9431,7 +9431,7 @@ function Yd() {
           children: [            
             v.jsx("span", {
               className: "text-xl font-bold",
-              children: "Boringguy",
+              children: "BORINGGUY",
             }),
           ],
         }),
