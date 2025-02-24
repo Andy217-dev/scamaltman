@@ -9201,7 +9201,7 @@ function Bd() {
             children: "About",
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xf101d0a0c0d459c6663c4e54f1da517246852a39?t=1739052426947",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x60fee0620cca7da0e1eba375f63ad755a3268a63?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9249,7 +9249,7 @@ function Hd() {
             children: ["Buy BORINGGUY ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x05c5757087df579385b2eafd5f86940410b6092e?t=1739052426947",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x60fee0620cca7da0e1eba375f63ad755a3268a63?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
