@@ -9273,7 +9273,7 @@ function Hd() {
                 children: v.jsx($d, { className: "h-5 w-5" }),
               }),
               v.jsx("a", {
-                href: "https://x.com/cz_binance/status/1894014007817736363",
+                href: "https://x.com/stoolpresidente/status/1894023847952683186",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
