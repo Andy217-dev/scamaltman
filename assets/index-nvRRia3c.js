@@ -9183,7 +9183,7 @@ function Bd() {
         children: [
           v.jsx("span", {
             className: "text-2xl font-bold",
-            children: "DDTG",
+            children: "DJ",
           }),
         ],
       }),
@@ -9209,7 +9209,7 @@ function Bd() {
             children: [v.jsx(tc, { className: "h-5 w-5" }), "Chart"],
           }),
           v.jsx("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xe4Cb7d896A17Ef1F16A864B19e573A021BdB92d4&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xda844f86ae664184948eda5ea26eb86cbd3d0c8e&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9234,22 +9234,22 @@ function Hd() {
       v.jsxs("h1", {
         className: "text-6xl font-bold mb-6",
         children: [
-          "DAVEY DAY TRADER GLOBAL",     
+          "DJ Daniel",     
         ],
       }),   
       v.jsxs("div", {
         className: "flex gap-4",
         children: [
           v.jsxs("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xe4Cb7d896A17Ef1F16A864B19e573A021BdB92d4&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xda844f86ae664184948eda5ea26eb86cbd3d0c8e&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
               "bg-yellow-500 text-black px-8 py-3 rounded-full font-bold hover:bg-yellow-400 transition flex items-center gap-2",
-            children: ["Buy DDTG ", v.jsx(Od, { className: "h-5 w-5" })],
+            children: ["Buy DJ ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x0000000000000?t=1739052426947",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x9a1e437e3171587acf86598e854e0eaa18f3f24f?t=1739052426947",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9260,7 +9260,7 @@ function Hd() {
             className: "flex gap-3",      
             children: [
               v.jsx("a", {
-                href: "https://t.me/ddtg_com",
+                href: "https://t.me/dj_daniel_portal",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9273,7 +9273,7 @@ function Hd() {
                 children: v.jsx($d, { className: "h-5 w-5" }),
               }),
               v.jsx("a", {
-                href: "https://x.com/stoolpresidente/status/1894023847952683186",
+                href: "https://x.com/nypost/status/1897139354855702594",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9332,7 +9332,7 @@ function Wd() {
         children: [
           v.jsx("h2", {
             className: "text-4xl font-bold mb-8 text-center",
-            children: 'DAVEY DAY TRADER GLOBAL ',
+            children: 'Trump announces 13-year-old DJ Daniels will be honorary Secret Service agent ',
           }),          
         ],
       }),
@@ -9356,7 +9356,7 @@ function Kd() {
               "text-xl font-bold text-center",
             style: {marginBottom: "20px"},
             children: [
-              v.jsx("span", { children: "CA: 0xe4Cb7d896A17Ef1F16A864B19e573A021BdB92d4" }),              
+              v.jsx("span", { children: "CA: 0xda844f86ae664184948eda5ea26eb86cbd3d0c8e" }),              
             ],
         }),
         v.jsxs("div", {
@@ -9375,7 +9375,7 @@ function Kd() {
                         "flex text-2xl font-bold mb-4 text-yellow-500 justify-between",
                       children: [
                         v.jsx("span", { children: "Symbol" }),
-                        v.jsx("span", { children: "DDTG" }),
+                        v.jsx("span", { children: "DJ" }),
                       ],
                     }),
                     v.jsxs("li", {
@@ -9431,13 +9431,13 @@ function Yd() {
           children: [            
             v.jsx("span", {
               className: "text-xl font-bold",
-              children: "DDTG",
+              children: "DJ",
             }),
           ],
         }),
         v.jsx("p", {
           className: "text-gray-400",
-          children: "© 2025 DAVEY DAY TRADER GLOBAL. All rights reserved.",
+          children: "© 2025 DJ Daniel. All rights reserved.",
         }),
       ],
     }),
