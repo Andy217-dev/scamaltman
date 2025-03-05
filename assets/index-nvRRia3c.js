@@ -9201,7 +9201,7 @@ function Bd() {
             children: "About",
           }),
           v.jsxs("a", {
-            href: "https://www.ools.io/app/en/ether/pair-explorer/0x0000000000000?t=1739052426947",
+            href: "https://dexscreener.com/ethereum/0x1e4655b6917de51bc3c0a91b73dce904c84c5b0f",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
