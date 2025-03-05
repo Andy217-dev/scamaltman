@@ -9249,7 +9249,7 @@ function Hd() {
             children: ["Buy DJ ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x9a1e437e3171587acf86598e854e0eaa18f3f24f?t=1739052426947",
+            href: "https://dexscreener.com/ethereum/0x9a1e437e3171587acf86598e854e0eaa18f3f24f",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
