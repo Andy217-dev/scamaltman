@@ -9201,7 +9201,7 @@ function Bd() {
             children: "About",
           }),
           v.jsxs("a", {
-            href: "https://dexscreener.com/ethereum/0x1e4655b6917de51bc3c0a91b73dce904c84c5b0f",
+            href: "https://x.com/whitehouse/status/1897135566342533326?s=46",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9249,7 +9249,7 @@ function Hd() {
             children: ["Buy DJ ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
-            href: "https://dexscreener.com/ethereum/0x9a1e437e3171587acf86598e854e0eaa18f3f24f",
+            href: "https://x.com/whitehouse/status/1897135566342533326?s=46",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
