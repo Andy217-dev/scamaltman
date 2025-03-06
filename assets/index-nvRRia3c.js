@@ -896,7 +896,7 @@ var Ho = /[\-:]([a-z])/g;
 function Qo(e) {
   return e[1].toUpperCase();
 }
-"accent-height alignment-baseline arabic-form baseline-shift cap-height clip-path clip-rule color-interpolation color-interpolation-filters color-profile color-rendering dominant-baseline enable-background fill-opacity fill-rule flood-color flood-opacity font-family font-size font-size-adjust font-stretch font-style font-variant font-weight glyph-name glyph-orientation-horizontal glyph-orientation-vertical horiz-adv-x horiz-origin-x image-rendering letter-spacing lighting-color marker-end marker-mid marker-start overline-position overline-thickness paint-order panose-1 pointer-events rendering-intent shape-rendering stop-color stop-opacity strikethrough-position strikethrough-thickness stroke-dasharray stroke-dashoffset stroke-linecap stroke-linejoin stroke-miterlimit stroke-opacity stroke-width text-anchor text-decoration text-rendering underline-position underline-thickness unicode-bidi unicode-range units-per-em v-alphabetic v-hanging v-ideographic v-mathematical vector-effect vert-adv-y vert-origin-x vert-origin-y word-spacing writing-mode xmlns:xlink x-height"
+"accent-height alignment-baseline arabic-form baseline-shift cap-height clip-path clip-rule color-interpolation color-interpolation-filters color-profile color-rendering dominant-baseline enable-background fill-opacity fill-rule flood-color flood-opacity font-family font-size font-size-aBUREAUCRACYust font-stretch font-style font-variant font-weight glyph-name glyph-orientation-horizontal glyph-orientation-vertical horiz-adv-x horiz-origin-x image-rendering letter-spacing lighting-color marker-end marker-mid marker-start overline-position overline-thickness paint-order panose-1 pointer-events rendering-intent shape-rendering stop-color stop-opacity strikethrough-position strikethrough-thickness stroke-dasharray stroke-dashoffset stroke-linecap stroke-linejoin stroke-miterlimit stroke-opacity stroke-width text-anchor text-decoration text-rendering underline-position underline-thickness unicode-bidi unicode-range units-per-em v-alphabetic v-hanging v-ideographic v-mathematical vector-effect vert-adv-y vert-origin-x vert-origin-y word-spacing writing-mode xmlns:xlink x-height"
   .split(" ")
   .forEach(function (e) {
     var n = e.replace(Ho, Qo);
@@ -9183,7 +9183,7 @@ function Bd() {
         children: [
           v.jsx("span", {
             className: "text-2xl font-bold",
-            children: "DJ",
+            children: "BUREAUCRACY",
           }),
         ],
       }),
@@ -9201,7 +9201,7 @@ function Bd() {
             children: "About",
           }),
           v.jsxs("a", {
-            href: "https://x.com/whitehouse/status/1897135566342533326?s=46",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x7e13a7da238f5660130fa6d2c052f289014c6f4b?t=1741254049238",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9209,7 +9209,7 @@ function Bd() {
             children: [v.jsx(tc, { className: "h-5 w-5" }), "Chart"],
           }),
           v.jsx("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xda844f86ae664184948eda5ea26eb86cbd3d0c8e&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xEf3D56813271551127E2ae6Cc521B4d37546cdE5&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9234,22 +9234,22 @@ function Hd() {
       v.jsxs("h1", {
         className: "text-6xl font-bold mb-6",
         children: [
-          "DJ Daniel",     
+          "Bureaucracy Defeater",     
         ],
       }),   
       v.jsxs("div", {
         className: "flex gap-4",
         children: [
           v.jsxs("a", {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xda844f86ae664184948eda5ea26eb86cbd3d0c8e&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xEf3D56813271551127E2ae6Cc521B4d37546cdE5&chain=mainnet",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
               "bg-yellow-500 text-black px-8 py-3 rounded-full font-bold hover:bg-yellow-400 transition flex items-center gap-2",
-            children: ["Buy DJ ", v.jsx(Od, { className: "h-5 w-5" })],
+            children: ["Buy BUREAUCRACY ", v.jsx(Od, { className: "h-5 w-5" })],
           }),
           v.jsxs("a", {
-            href: "https://x.com/whitehouse/status/1897135566342533326?s=46",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x7e13a7da238f5660130fa6d2c052f289014c6f4b?t=1741254049238",
             target: "_blank",
             rel: "noopener noreferrer",
             className:
@@ -9260,7 +9260,7 @@ function Hd() {
             className: "flex gap-3",      
             children: [
               v.jsx("a", {
-                href: "https://t.me/dj_daniel_portal",
+                href: "https://t.me/bureaucracyportal",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9273,7 +9273,7 @@ function Hd() {
                 children: v.jsx($d, { className: "h-5 w-5" }),
               }),
               v.jsx("a", {
-                href: "https://x.com/nypost/status/1897139354855702594",
+                href: "https://x.com/cb_doge/status/1897527564996149475",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9332,7 +9332,7 @@ function Wd() {
         children: [
           v.jsx("h2", {
             className: "text-4xl font-bold mb-8 text-center",
-            children: 'Trump announces 13-year-old DJ Daniels will be honorary Secret Service agent ',
+            children: '"We are here to defeat Bureaucracy!"',
           }),          
         ],
       }),
@@ -9356,7 +9356,7 @@ function Kd() {
               "text-xl font-bold text-center",
             style: {marginBottom: "20px"},
             children: [
-              v.jsx("span", { children: "CA: 0xda844f86ae664184948eda5ea26eb86cbd3d0c8e" }),              
+              v.jsx("span", { children: "CA: 0xEf3D56813271551127E2ae6Cc521B4d37546cdE5" }),              
             ],
         }),
         v.jsxs("div", {
@@ -9375,7 +9375,7 @@ function Kd() {
                         "flex text-2xl font-bold mb-4 text-yellow-500 justify-between",
                       children: [
                         v.jsx("span", { children: "Symbol" }),
-                        v.jsx("span", { children: "DJ" }),
+                        v.jsx("span", { children: "BUREAUCRACY" }),
                       ],
                     }),
                     v.jsxs("li", {
@@ -9431,13 +9431,13 @@ function Yd() {
           children: [            
             v.jsx("span", {
               className: "text-xl font-bold",
-              children: "DJ",
+              children: "BUREAUCRACY",
             }),
           ],
         }),
         v.jsx("p", {
           className: "text-gray-400",
-          children: "© 2025 DJ Daniel. All rights reserved.",
+          children: "© 2025 Bureaucracy Defeater. All rights reserved.",
         }),
       ],
     }),
